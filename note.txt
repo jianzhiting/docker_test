@@ -1,0 +1,5 @@
+# start
+service docker start
+
+# stop
+service docker stop
